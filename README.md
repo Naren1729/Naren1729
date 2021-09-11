@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Naren1729
 - 👀 I’m interested in CP and Web development
 - 🌱 I’m currently learning C++ and DSA
+-     you can contact me in mail [narensai29@gmail.com]
 
 
 <!---
